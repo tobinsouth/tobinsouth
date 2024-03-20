@@ -1,4 +1,7 @@
-### Hi there 👋
+### G'day mate, I'm Tobin
+
+🦘 Check out more details here: [tobin.page](https://tobin.page)
+📫 Otherwise reach out via email.
 
 <!--
 **tobinsouth/tobinsouth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
